@@ -9,8 +9,8 @@
 ## and Zhou (1996)                                         ##
 ##                                                         ##
 ## Inputs:                                                 ##
-##     returns: TbyN matrix of asset returns               ##
-##     factor: Tby1 vector of the factor                   ##
+##     returns: a TbyN matrix of asset returns             ##
+##     factor: a Tby1 vector of the factor                 ##
 ##     w: rolling window length                            ##
 ##                                                         ##
 ## Outputs:                                                ##
