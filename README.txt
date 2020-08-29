@@ -5,7 +5,7 @@
 ##                                                         ##
 ## This function measures the pricing errors for the       ## 
 ## Arbitrage Pricing Theory using a rolling window         ##
-## regression. For theoretical framework, refer to Geweke  ##
+## regression. For theoretical framework, consider Geweke  ##
 ## and Zhou (1996)                                         ##
 ##                                                         ##
 ## Inputs:                                                 ##
