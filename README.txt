@@ -11,7 +11,7 @@
 ## Inputs:                                                 ##
 ##     returns: a TbyN matrix of asset returns             ##
 ##     factor: a Tby1 vector of the factor                 ##
-##     w: rolling window length                            ##
+##     w: the rolling window length                        ##
 ##                                                         ##
 ## Outputs:                                                ##
 ##     Mean: mean of the pricing errors                    ##
