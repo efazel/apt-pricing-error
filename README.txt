@@ -3,7 +3,7 @@
 ## Author: Ehsan Fazel (Concordia University)              ##
 ## This version: Feb. 2019                                 ##
 ##                                                         ##
-## This function measures the pricing errors for the       ## 
+## This function calculates the pricing errors for the     ## 
 ## Arbitrage Pricing Theory using a rolling window         ##
 ## regression. For theoretical framework, read Geweke      ##
 ## and Zhou (1996)                                         ##
